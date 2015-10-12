@@ -4,7 +4,9 @@
   <groupId>com.mycompany.app</groupId>
   <artifactId>appssi</artifactId>
   <packaging>jar</packaging>
+  <scm>
   <developerConnection>scm:git:https://github.com/ssigfi/jenkins_dummy.git</developerConnection>
+  </scm>
   <version>1.0-SNAPSHOT</version>
   <name>appssi</name>
   <url>http://maven.apache.org</url>
